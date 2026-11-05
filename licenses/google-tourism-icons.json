@@ -1,0 +1,32 @@
+[
+  {
+    "key": "landscape",
+    "material_icon": "landscape",
+    "source": "https://raw.githubusercontent.com/google/material-design-icons/master/src/image/landscape/materialicons/24px.svg"
+  },
+  {
+    "key": "hotel",
+    "material_icon": "hotel",
+    "source": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/hotel/materialicons/24px.svg"
+  },
+  {
+    "key": "camp",
+    "material_icon": "terrain",
+    "source": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/terrain/materialicons/24px.svg"
+  },
+  {
+    "key": "bath",
+    "material_icon": "hot_tub",
+    "source": "https://raw.githubusercontent.com/google/material-design-icons/master/src/places/hot_tub/materialicons/24px.svg"
+  },
+  {
+    "key": "culture",
+    "material_icon": "museum",
+    "source": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/museum/materialicons/24px.svg"
+  },
+  {
+    "key": "shop",
+    "material_icon": "shopping_bag",
+    "source": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/shopping_bag/materialicons/24px.svg"
+  }
+]

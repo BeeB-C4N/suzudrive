@@ -1,0 +1,102 @@
+[
+  {
+    "source": "スライド7.JPG",
+    "size": [
+      640,
+      480
+    ],
+    "original_bytes": 161022,
+    "jpeg_bytes": 20238,
+    "base64_bytes": 27007
+  },
+  {
+    "source": "スライド11.JPG",
+    "size": [
+      640,
+      360
+    ],
+    "original_bytes": 577302,
+    "jpeg_bytes": 33629,
+    "base64_bytes": 44863
+  },
+  {
+    "source": "スライド24.JPG",
+    "size": [
+      640,
+      425
+    ],
+    "original_bytes": 420899,
+    "jpeg_bytes": 46611,
+    "base64_bytes": 62171
+  },
+  {
+    "source": "スライド28.JPG",
+    "size": [
+      640,
+      427
+    ],
+    "original_bytes": 292839,
+    "jpeg_bytes": 35378,
+    "base64_bytes": 47195
+  },
+  {
+    "source": "スライド51.JPG",
+    "size": [
+      640,
+      480
+    ],
+    "original_bytes": 449354,
+    "jpeg_bytes": 47734,
+    "base64_bytes": 63671
+  },
+  {
+    "source": "スライド18.JPG",
+    "size": [
+      640,
+      480
+    ],
+    "original_bytes": 297767,
+    "jpeg_bytes": 35198,
+    "base64_bytes": 46955
+  },
+  {
+    "source": "スライド4.JPG",
+    "size": [
+      640,
+      480
+    ],
+    "original_bytes": 373219,
+    "jpeg_bytes": 48768,
+    "base64_bytes": 65047
+  },
+  {
+    "source": "スライド3.JPG",
+    "size": [
+      640,
+      480
+    ],
+    "original_bytes": 286010,
+    "jpeg_bytes": 29958,
+    "base64_bytes": 39967
+  },
+  {
+    "source": "スライド12.JPG",
+    "size": [
+      640,
+      320
+    ],
+    "original_bytes": 737335,
+    "jpeg_bytes": 38798,
+    "base64_bytes": 51755
+  },
+  {
+    "source": "スライド29.JPG",
+    "size": [
+      514,
+      640
+    ],
+    "original_bytes": 294375,
+    "jpeg_bytes": 54476,
+    "base64_bytes": 72659
+  }
+]

@@ -1,0 +1,400 @@
+{
+  "retrieved_at": "2026-11-05",
+  "source": "https://archive2023.oku-noto.jp/ja/map.html",
+  "area_source": "https://archive2023.oku-noto.jp/ja/area.html",
+  "notice": "2023年開催時の会場情報。現在の展示・立ち入り可否は未確認。公式作品一覧の同一座標は会場ごとに集約。座標のない作品・複数会場を特定できない作品はピンを作成していません。",
+  "locations": [
+    {
+      "id": "oku2023-198419",
+      "lat": 37.4909954,
+      "lng": 137.1249918,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198419&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "時を運ぶ船",
+          "artist": "塩田千春",
+          "venue": "旧清水保育所",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_shiota.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198420",
+      "lat": 37.5011598,
+      "lng": 137.1712818,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198420&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "余光の海",
+          "artist": "南条嘉毅",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_nanjo.html"
+        },
+        {
+          "title": "ドリフターズ",
+          "artist": "OBI",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_obi.html"
+        },
+        {
+          "title": "待ち合わせの森",
+          "artist": "大川友希",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_okawa.html"
+        },
+        {
+          "title": "「母音／海鳴り」「海雲」",
+          "artist": "橋本雅也",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_hashimoto.html"
+        },
+        {
+          "title": "覗いて、眺めて、",
+          "artist": "竹中美幸",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_takenaka.html"
+        },
+        {
+          "title": "「The missing shade 59-1」「Seascape （Suzu）」「Untitled」",
+          "artist": "三宅砂織",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_miyake.html"
+        },
+        {
+          "title": "静かに佇む",
+          "artist": "久野彩子",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_kuno.html"
+        },
+        {
+          "title": "Soilstory -つちがたり-",
+          "artist": "bacilli / 旧世界土協会",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_world.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-201431",
+      "lat": 37.5013636618315,
+      "lng": 137.171119451523,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=201431&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "潮騒レストラン",
+          "artist": "坂 茂",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_ban.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-201432",
+      "lat": 37.500789126454,
+      "lng": 137.171320617199,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=201432&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "石の卓球台第3号",
+          "artist": "浅葉克己",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_asaba.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198573",
+      "lat": 37.5006848584486,
+      "lng": 137.171355485916,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198573&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "松雲海風艀雲",
+          "artist": "牛嶋 均",
+          "venue": "スズ・シアター・ミュージアム",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_ushijima.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198580",
+      "lat": 37.5142363506851,
+      "lng": 137.21893787384,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198580&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "風と波",
+          "artist": "奥村浩之",
+          "venue": "鰐崎海岸",
+          "district": "大谷",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_okumura.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198583",
+      "lat": 37.5273663334719,
+      "lng": 137.263312339783,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198583&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "TENGAI",
+          "artist": "アレクサンドル・ポノマリョフ",
+          "venue": "木ノ浦野営場",
+          "district": "日置",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_ponomarev.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198584",
+      "lat": 37.5296763927536,
+      "lng": 137.264476418495,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198584&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "Infinity 41.42.43",
+          "artist": "リチャード・ディーコン",
+          "venue": "木ノ浦海岸",
+          "district": "日置",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_richard.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198585",
+      "lat": 37.5244478137563,
+      "lng": 137.280022501945,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198585&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "幻想考“The Butterfly Dreams”",
+          "artist": "さわひらき",
+          "venue": "旧日置公民館",
+          "district": "日置",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_sawa.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198587",
+      "lat": 37.4855601998201,
+      "lng": 137.338736057281,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198587&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "「Autonomo」「図書室：カールステン・ニコライが推薦する子供の本」",
+          "artist": "カールステン・ニコライ〈ドイツ〉",
+          "venue": "旧粟津保育所",
+          "district": "三崎",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_carsten.html"
+        },
+        {
+          "title": "おもちゃ",
+          "artist": "杉谷一考",
+          "venue": "旧粟津保育所",
+          "district": "三崎",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_sugitani.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198591",
+      "lat": 37.451195395875,
+      "lng": 137.358583062887,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198591&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "記憶への回廊",
+          "artist": "山本基",
+          "venue": "旧小泊保育所",
+          "district": "三崎",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_yamamoto.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-211604",
+      "lat": 37.4403149713912,
+      "lng": 137.330197120849,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=211604&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "家のささやき",
+          "artist": "ラグジュアリー・ロジコ",
+          "venue": "鉢ヶ崎海岸",
+          "district": "蛸島",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_logico.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198600",
+      "lat": 37.4407407219628,
+      "lng": 137.327240109444,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198600&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "漂移する風景",
+          "artist": "リュウ・ジャンファ",
+          "venue": "珠洲焼資料館",
+          "district": "蛸島",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_liu.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198607",
+      "lat": 37.4431333197851,
+      "lng": 137.306312173605,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198607&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "Something Else is Possible/なにか他にできる",
+          "artist": "トビアス・レーベルガー〈ドイツ〉",
+          "venue": "旧蛸島駅周辺",
+          "district": "蛸島",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_tobias.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198609",
+      "lat": 37.445800544928325,
+      "lng": 137.2884714603424,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198609&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "植木鉢",
+          "artist": "大岩オスカール",
+          "venue": "旧正院駅",
+          "district": "正院",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_oscar.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198611",
+      "lat": 37.4598887,
+      "lng": 137.2871824,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198611&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "コスチューム×身体×スズズカ",
+          "artist": "ひびのこづえ",
+          "venue": "旧飯塚保育所",
+          "district": "正院",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_hibino.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-211610",
+      "lat": 37.462008887647,
+      "lng": 137.284107530812,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=211610&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "あかるい家",
+          "artist": "中島伽耶子",
+          "venue": "飯塚の旧事務所",
+          "district": "正院",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_nakashima.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198626",
+      "lat": 37.4373854192077,
+      "lng": 137.258607745171,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198626&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "小さい忘れもの美術館",
+          "artist": "河口龍夫",
+          "venue": "旧飯田駅",
+          "district": "飯田",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_kawaguchi.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198630",
+      "lat": 37.4242364217861,
+      "lng": 137.24822089076,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198630&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "うつしみ",
+          "artist": "ラックス・メディア・コレクティブ",
+          "venue": "旧上戸駅",
+          "district": "上戸",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_raqs.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-198632",
+      "lat": 37.4200330904089,
+      "lng": 137.248145118356,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=198632&c=art-suzu&transferchild=1",
+      "coordinate_method": "public map spot data",
+      "works": [
+        {
+          "title": "なぜここにいるのだろう",
+          "artist": "N.S.ハーシャ",
+          "venue": "柳田児童公園",
+          "district": "上戸",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_harsha.html"
+        }
+      ]
+    },
+    {
+      "id": "oku2023-211624",
+      "lat": 37.4524783059281,
+      "lng": 137.138385772705,
+      "coordinate_source": "https://platinumaps.jp/d/suzumap?s=211624&c=art-suzu&transferchild=1",
+      "coordinate_method": "official embedded map initial spot",
+      "works": [
+        {
+          "title": "ボトルシップ",
+          "artist": "小山 真徳",
+          "venue": "北山の棚田",
+          "district": "若山",
+          "url": "https://archive2023.oku-noto.jp/ja/artist_koyama.html"
+        }
+      ]
+    }
+  ]
+}
