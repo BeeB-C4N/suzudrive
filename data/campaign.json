@@ -1,11 +1,13 @@
 {
   "enabled": true,
   "recipientEmail": "kankou@city.suzu.lg.jp",
-  "organizerName": "珠洲市",
+  "organizerName": "珠洲市 観光交流課",
   "campaignTitle": "SUZU MY ROAD MAP 特産品プレゼント",
   "winners": null,
   "entryPeriod": "",
   "privacyUrl": "",
   "contactEmail": "kankou@city.suzu.lg.jp",
-  "consentVersion": "2026-11-05"
+  "consentVersion": "2026-11-09",
+  "contactPhone": "0768-82-7776",
+  "contactUrl": "https://www.city.suzu.lg.jp/soshiki/8/"
 }
